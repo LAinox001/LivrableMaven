@@ -19,7 +19,10 @@
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
       <version>3.8.1</version>
-      <scope>test</scope>
+      <scope>system</scope>
+  	  <systemPath>
+    	C:\Users\lanto\Documents\Cours\A1 - Semestre 2\Bloc 2\Prosit 3\Livrables\showboard.jar
+      </systemPath>
     </dependency>
   </dependencies>
 </project>
